@@ -30,7 +30,7 @@
   cursor: pointer;
   display: flex;
   align-items: center;
-  border-radius: 12px;
+  border-radius: 10px;
 }
 
 .sidebarListItem.active,
