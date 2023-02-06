@@ -38,7 +38,7 @@ export default function Sidebar() {
             </li>
           </ul>
         </div>
-        <div className="sidebar">
+        <div className="sidebarMenuu">
           <h3 className="sidebarTitle">Quick Menu</h3>
           <ul className="sidebarList">
             <Link to="/users" className="link">
