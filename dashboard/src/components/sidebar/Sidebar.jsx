@@ -48,7 +48,7 @@ export default function Sidebar() {
               </li>
             </Link>
             <Link to="/products" className="link">
-              <li className="sidebarListItems">
+              <li className="sidebarListItem">
                 <Storefront className="sidebarIcon" />
                 Products
               </li>
